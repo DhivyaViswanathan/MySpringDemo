@@ -24,6 +24,10 @@ public class Alien {
 	public void setMarks(int marks) {
 		this.marks = marks;
 	}
+	@Override
+	public String toString() {
+		return "Alien [aid=" + aid + ", aname=" + aname + ", marks=" + marks + "]";
+	}
 	
 	
 }
