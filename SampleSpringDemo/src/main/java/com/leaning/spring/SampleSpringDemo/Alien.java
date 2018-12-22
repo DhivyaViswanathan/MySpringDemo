@@ -7,4 +7,5 @@ public class Alien {
 	private String aname;
 	private int marks;
 	
+	
 }
